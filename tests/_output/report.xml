@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="acceptance" tests="2" assertions="0" errors="0" failures="0" skipped="0" time="0.000000">
+    <testcase name="FirstTest" file="C:\Users\work\Documents\php2\vendor\bin\tests\acceptance\FirstTestCept.php" feature="" assertions="0" time="0.000000"/>
+    <testcase name="HomePageCheck" file="C:\Users\work\Documents\php2\vendor\bin\tests\acceptance\HomePageCheckCept.php" feature="check if the home page is availiable" assertions="0" time="0.000000"/>
+  </testsuite>
+</testsuites>
